@@ -7,7 +7,7 @@
     <meta name="description" content="Easily Generate GDRIVE Link for Drirect Download." />
     <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
     <link href='https://fonts.googleapis.com/css?family=Asap Condensed' rel='stylesheet'>
-    <link rel="icon" href="img/google drive.png" type="image/png" sizes="16x16">
+    <link rel="icon" href="img/g-drive.png" type="image/png" sizes="16x16">
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -46,7 +46,7 @@
 
     <div class="container">
         <div style="padding-top:20px;">
-            <center><img src="img/google drive.png" style="height:150px;" alt="Google Drive Logo">
+            <center><img src="img/g-drive.png" style="height:150px;" alt="Google Drive Logo">
                 <h2 style=" font-family: 'Asap Condensed';background:white;max-width:320px;border-radius:30px;"><span
                         style="color:#10975B">G</span><span style="color:#E3B73A;">DRIVE</span> <span
                         style="color:#2E70DD;">DOWNLOADER</span><span class="badge badge-danger"></span></h2>
